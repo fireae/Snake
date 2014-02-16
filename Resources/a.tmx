@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="30" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="perspective_walls" tilewidth="32" tileheight="32">
+  <image source="../../Apps/tiled-qt-0.9.0/examples/perspective_walls.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwwENAAAMw6CamX+LF3JIWDVVVVXfPeR1ghU=
+  </data>
+ </layer>
+</map>
